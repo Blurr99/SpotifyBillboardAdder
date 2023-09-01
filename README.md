@@ -30,6 +30,12 @@ It then creates a playlist from the currently logged in spotify account and adds
 ![image](https://github.com/Blurr99/SpotifyBillboardAdder/assets/116642733/7bf90fb9-29ce-4776-a180-6e7b937423dd)
 
 
+Steps to to run this program on a different code:
+<ol>
+  <li> Download the main.py file and the token.txt file into a single folder </li>
+  <li> Go to <a href="https://developer.spotify.com">Spotify for developers site</a> and get the required keys such as access token, clientID, client secret key etc. and use them in the main and token files</li>
+  <li> Run your code</li>
+</ol>
 
 
 
